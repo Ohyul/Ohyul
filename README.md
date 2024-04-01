@@ -22,6 +22,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/virtualbox-183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
  
 # :mailbox_with_mail: Contacts
