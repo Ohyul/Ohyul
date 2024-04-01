@@ -6,7 +6,8 @@
 
 # 💪Skills
 ### Platforms & Languages
-![cplusplus](https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=black)
+![cplusplus](https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
