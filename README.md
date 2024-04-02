@@ -1,5 +1,5 @@
 # Kweon Ohyul 
-# Boj Tier
+### Boj Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98/)
 
 # Skills
