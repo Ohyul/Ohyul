@@ -24,7 +24,7 @@
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
  
-# :mailbox_with_mail: Contacts
+# Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ohyul98@gmail.com)](mailto:ohyul98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ohyul98@naver.com)](mailto:ohyul98@naver.com)
 
