@@ -1,7 +1,4 @@
 # Kweon Ohyul 
-### BOJ Tier
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98)
 # Skills
 ### Platforms & Languages
 Software Development
@@ -27,6 +24,10 @@ Network, DB & Web application
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+
+### BOJ Tier
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98)
 
  
 # Contacts
