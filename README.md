@@ -29,7 +29,7 @@ Network, DB & Web application
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 
 
-### BOJ Tier
+### BOJ(PS) Tier
 ![USERID profile](http://mazandi.herokuapp.com/api?handle=ohyul98&theme=cold)
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98) -->
 
