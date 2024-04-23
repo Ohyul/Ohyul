@@ -30,7 +30,7 @@ Network, DB & Web application
 
 
 ### BOJ Tier
-![USERID profile](http://mazandi.herokuapp.com/api?handle=ohyul98&theme=dark)
+![USERID profile](http://mazandi.herokuapp.com/api?handle=ohyul98&theme=warm)
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98) -->
 
 
