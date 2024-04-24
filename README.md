@@ -44,3 +44,6 @@ GitHub
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhyul&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&style=for-the-badge)](https://hits.seeyoufarm.com)
+
+Today's Visitor / Total Visitors
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhyul%2Fhit-counter&count_bg=%23000000&title_bg=%236A6868&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
