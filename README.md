@@ -30,7 +30,7 @@ Network, DB & Web application
 
 
 
-# Actiivities
+# Activities
 BOJ (Problem Solving)
 
 ![USERID profile](http://mazandi.herokuapp.com/api?handle=ohyul98&theme=cold)
