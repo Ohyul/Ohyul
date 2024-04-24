@@ -37,7 +37,8 @@ BOJ (Problem Solving)
 
 GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ohyul&theme=dayfox&hide_border=true&border_radius=5&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ohyul&theme=transparent&border_radius=5&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
+
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98) -->
 
 
