@@ -31,8 +31,11 @@ Network, DB & Web application
 
 ### Actiivities
 BOJ (Problem Solving)
+
 ![USERID profile](http://mazandi.herokuapp.com/api?handle=ohyul98&theme=cold)
+
 GitHub
+
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=Ohyul)](#)
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohyul98)](https://solved.ac/ohyul98) -->
