@@ -3,7 +3,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:ohyul98@naver.com)](mailto:ohyul98@naver.com)
 
 # Skills
-### Platforms & Languages
+### Platforms & Languageㄴ
 Software Development
 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
