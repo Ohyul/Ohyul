@@ -1,6 +1,7 @@
 # Kweon Ohyul 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohyul98@gmail.com)](mailto:ohyul98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:ohyul98@naver.com)](mailto:ohyul98@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohyul98@gmail.com)](mailto:ohyul98@gmail.com)
+
 
 # Skills
 ### Platforms & Language
